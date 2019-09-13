@@ -1,7 +1,11 @@
 # star
 
-name: Yeyi Jie
+name1: Yeyi Jie
+name2: Angelica Lopez
 #
-EID: yj4824
+EID1: yj4824
+EID2: al44726
 #
-GitHub username:jobigbang
+GitHub username1:jobigbang
+GitHub username2: amlopez78
+
