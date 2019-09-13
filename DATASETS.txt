@@ -1,1 +1,6 @@
+#guide**delete after finished**
+#describe the data, making note of the interesting attributes and relationships in the data. Include 3-5 rows of sample data from each file. Very important: explain what insights you hope to gain from analyzing the data.
+
+#Provide the description of your dataset(s) and download links in a DATASETS.txt file. If you pulled the data from an API, instead of downloading it, provide the API endpoints. Commit this file to your repo and push it to GitHub.
+
 
